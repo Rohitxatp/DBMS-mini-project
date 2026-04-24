@@ -175,4 +175,4 @@ exam-seating-db/
 
 ## Author
 
-Divyansh
+Rohit Singh
